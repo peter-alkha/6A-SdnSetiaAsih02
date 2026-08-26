@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://peter-alkha.github.io/6A-SdnSetiaAsih02/sitemap.xml
